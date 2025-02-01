@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chetna Salunke</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate software developer from India</h3>
  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1894420/screenshots/14032021/programming_01.gif">
 
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Nodejs**
 
-- 👯 I’m looking to collaborate on **front-end wed dev project**
+- 👯 I’m looking to collaborate on **wed dev project**
 
 - 💬 Ask me about **JavaScript, ReactJs**
 
