@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **E-com Website**
 
-- 🌱 I’m currently learning **Nodejs**
+- 🌱 I’m currently learning **React Native**
 
-- 👯 I’m looking to collaborate on **wed dev project**
+- 👯 I’m looking to collaborate on **Frontend dev project**
 
-- 💬 Ask me about **JavaScript, ReactJs**
+- 💬 Ask me about **JavaScript(ES6+), ReactJs**
 
 - 📫 How to reach me **chetnasalunke2002@gmail.com**
 
