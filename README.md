@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **JavaScript(ES6+), ReactJs**
 
-- 📫 How to reach me **chetnasalunke2002@gmail.com**
+- 📫 How to reach me **chetnasalunke.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
