@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on **improving my React and TypeScript skills through real-world style projects**
 
 - 🌱 I’m currently learning **React Native**
-
+ 
 - 👯 I’m looking to collaborate on **Frontend dev project**
 
 - 💬 Ask me about **JavaScript(ES6+), ReactJs**
