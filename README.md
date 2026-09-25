@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chetna-salunke&label=Profile%20views&color=0e75b6&style=flat" alt="chetna-salunke" /> </p>
 
-- 🔭 I’m currently working on **Tiny Embeddable Checkout — a TypeScript SDK + iframe checkout with secure postMessage communication**
+- 🔭 I’m currently working on **improving my React and TypeScript skills through real-world style projects**
 
 - 🌱 I’m currently learning **React Native**
 
@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/chetna-salunke-16471523b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chetna salunke" height="30" width="40" /></a>
-<a href="https://www.figma.com/@chetnasalunke" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="chetna salunke figma" height="30" width="40" /></a>
+<a href="[https://www.figma.com/@chetnasalunke](https://www.figma.com/@chetna_dev)" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="chetna salunke figma" height="30" width="40" /></a>
 </p><br>
 
 <h3 align="left">Languages and Tools:</h3>
