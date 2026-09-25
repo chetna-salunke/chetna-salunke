@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/chetna-salunke-16471523b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chetna salunke" height="30" width="40" /></a>
-<a href="[https://www.figma.com/@chetnasalunke](https://www.figma.com/@chetna_dev)" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="chetna salunke figma" height="30" width="40" /></a>
+<a href="https://www.figma.com/@chetna_dev" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="chetna salunke figma" height="30" width="40" /></a>
 </p><br>
 
 <h3 align="left">Languages and Tools:</h3>
