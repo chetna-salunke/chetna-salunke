@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chetna Salunke</h1>
 <h3 align="center">A passionate software developer from India</h3>
- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1894420/screenshots/14032021/programming_01.gif">
+ <img align="right" alt="Coding" width="400" src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/08/giphy-13-1.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chetna-salunke&label=Profile%20views&color=0e75b6&style=flat" alt="chetna-salunke" /> </p>
